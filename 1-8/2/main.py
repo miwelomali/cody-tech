@@ -11,12 +11,14 @@ while power_of_two <= number:
 print(power_of_two)
 """
 
+"""
 #Pregunta 2
-# n = 1 result = 2 True
-# n = 2 result = 4 True
-# n = 3 result = 8 True
-# n = 4 result = 8 <= n^4 False
-# Termina el while
+n = 1 result = 2 True
+n = 2 result = 4 True
+n = 3 result = 8 True
+n = 4 result = 8 <= n^4 False
+Termina el while
+"""
 
 """
 n = 5
