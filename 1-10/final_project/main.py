@@ -16,4 +16,4 @@ def fizzBuzz(numbers: int):
     for i in range(1 , numbers + 1): 
         print(f"{calculate_fizzbuzz_twisted(i)}")
 
-number = fizzBuzz(numbers = int(input()))
+number = fizzBuzz(numbers = int(input())
